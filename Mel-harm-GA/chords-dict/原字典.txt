@@ -1,0 +1,18 @@
+    chord_mappings = {
+        "C": ["C", "E", "G"],
+        "Dm": ["D", "F", "A"],
+        "Em": ["E", "G", "B"],
+        "F": ["F", "A", "C"],
+        "G": ["G", "B", "D"],
+        "Am": ["A", "C", "E"],
+        "Bdim": ["B", "D", "F"]
+    }
+    preferred_transitions = {
+        "C": ["G", "Am", "F"],
+        "Dm": ["G", "Am"],
+        "Em": ["Am", "F", "C"],
+        "F": ["C", "G"],
+        "G": ["Am", "C"],
+        "Am": ["Dm", "Em", "F", "C"],
+        "Bdim": ["F", "Am"]
+    }
