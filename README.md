@@ -1,4 +1,3 @@
-# Music-generation-system-based-on-LSTM-and-genetic-algorithm
 # README.md
 
 ## Program Usage:
