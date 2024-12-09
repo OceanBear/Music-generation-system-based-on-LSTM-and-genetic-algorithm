@@ -1,4 +1,8 @@
 # README.md
+# made by 
+# Qihang Xiong, Jinhua Zhang, Zhuomin Zhu
+# Original dataset
+http://kern.humdrum.org/
 
 ## Program Usage:
 
@@ -63,5 +67,5 @@ Additionally, the song will be saved in the following formats:
    ```python
    from music21 import environment
    env = environment.Environment()
-   environment.Environment()['musicxmlPath'] = r'C:\Program Files\MuseScore 3\bin\MuseScore3.exe'  # Set path for music rendering
-   environment.Environment()['musescoreDirectPNGPath'] = r'C:\Program Files\MuseScore 3\bin\MuseScore3.exe'  # Set path for graphic rendering
+   environment.Environment()['musicxmlPath'] = r'E:\Program Files\MuseScore 3\bin\MuseScore3.exe'  # Set path for music rendering
+   environment.Environment()['musescoreDirectPNGPath'] = r'E:\Program Files\MuseScore 3\bin\MuseScore3.exe'  # Set path for graphic rendering
