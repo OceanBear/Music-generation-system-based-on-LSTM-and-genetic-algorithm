@@ -1,7 +1,8 @@
-# README.md
-# made by 
-# Qihang Xiong, Jinhua Zhang, Zhuomin Zhu
-# Original dataset
+# README.md 
+## made by: Qihang Xiong, Jinhua Zhang, Zhuomin Zhu
+## Github page
+https://github.com/OceanBear/Music-generation-system-based-on-LSTM-and-genetic-algorithm
+## Original dataset
 http://kern.humdrum.org/
 
 ## Program Usage:
